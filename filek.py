@@ -1,0 +1,1 @@
+stroka = "it is for new commit"
